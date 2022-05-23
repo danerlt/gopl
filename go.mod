@@ -1,3 +1,3 @@
-module LearnGo
+module gopl
 
 go 1.18
